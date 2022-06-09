@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjfelixx
 - 👀 I’m interested in anything math and programming
-- 🌱 I’m currently learning Rust and other algorithms from research papers
-- 💞️ I’m looking to collaborate on making anything fun:)
+- 🌱 I’m currently learning Rust and any software engineering concepts
+- 💞️ I’m looking to collaborate on making anything fun and useful:)
 - 📫 felixclyde@gmail.com
 
 <!---
