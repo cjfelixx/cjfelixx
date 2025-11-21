@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @cjfelixx
-- 👀 I’m interested in anything math and programming
-- 🌱 I’m currently learning more on AI and game development
-- 💞️ I’m looking to collaborate on making anything fun and useful:)
-- 📫 felixclyde@gmail.com
 
-<!---
-cjfelixx/cjfelixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+   <samp><br>
+   hi, im Clyde
+   <br>
+   coder<br>
+   me trying to code cool projects
+   <br> open to collaborate on projects and open source works:)
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://www.linkedin.com/in/felixclyde/">linkedin</a>
+   |
+   <a href="https://scholar.google.com/citations?hl=en&user=ZHQfzRoAAAAJ">google scholar</a>
+   |
+   <a href="https://www.kaggle.com/cjfelixx">kaggle</a>
+   ~ </samp><br><br>
+</p>
+</p>
