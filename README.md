@@ -1,7 +1,7 @@
 
 <p align="center">
    <samp><br>
-   hi, im Clyde
+   hi, I'm Clyde
    <br>
    coder<br>
    me trying to code cool projects
@@ -14,6 +14,8 @@
    <a href="https://scholar.google.com/citations?hl=en&user=ZHQfzRoAAAAJ">google scholar</a>
    |
    <a href="https://www.kaggle.com/cjfelixx">kaggle</a>
-   ~ </samp><br><br>
+   ~ </samp><br><br><br><br>
+   ( ° ∀ ° )ﾉﾞ
 </p>
 </p>
+
